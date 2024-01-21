@@ -38,7 +38,7 @@ const body = {
     },
   ],
   temperature: 0.5,
-  max_tokens: 200,
+  max_tokens: -1,
   stream: false,
 };
 function doAll() {
